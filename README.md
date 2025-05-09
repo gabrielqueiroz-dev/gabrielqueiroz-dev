@@ -1,16 +1,21 @@
 ## Oi, sou Pedro Gabriel 👨‍💻
 
-<!--
-**gabrielqueiroz-dev/gabrielqueiroz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **🎓 Técnico em informática | 👨‍💻​ Graduando em Design Digital**
 
-Here are some ideas to get you started:
+ - Estudante da Universidade Federal do Ceará - Campus Quixadá.
+ - Ensino médio com curso técnico integrado em EEEP Maria Môsa da Silva - Ocara, ce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Minhas informações profissionais | 🚀
+
+Já trabalhei como algumas linguagens, como por exemplo:
+- Js
+- Python
+- C++
+- HTML/CSS
+
+
+Projetos que participei: 
+
+ - https://publicclass.onrender.com/
+ 
+.
