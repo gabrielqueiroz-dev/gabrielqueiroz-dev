@@ -11,7 +11,7 @@ Projetos que participei:
 
  - https://publicclass.onrender.com/
  
-## 🚀 Tecnologias que eu uso
+## 🌐 Tecnologias que eu uso
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
